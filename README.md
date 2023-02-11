@@ -4,8 +4,8 @@
 
 <div style="display: inline_block"<br>
   <a href="https://www.linkedin.com/in/thercio-rodrigues/">
-  <img align="center" alt="Thercio-Stats" height="180 width="250" src="https://github-readme-stats.vercel.app/api?username=thercior&show_icons=true&theme=radical">
-  <img align="center" alt="Thercio-Stats" height="180 width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercior&show_icons=true&theme=radical">
+  <img align="center" alt="Thercio-Stats" height="180 width="200" src="https://github-readme-stats.vercel.app/api?username=thercior&show_icons=true&theme=radical">
+  <img align="center" alt="Thercio-Stats" height="180 width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercior&show_icons=true&theme=radical">
   
   <img align="right" alt="Thercio-EMOJI" height="180" width="190" src="https://dsm01pap005files.storage.live.com/y4mq5VcxhVunsolsz3ar99ZvZFomjISSHeI8xK0k7mIchNhmMi6U2fEqeOBCFq4W7WMLxXCAIUOk4IpafMMLmhEQXhxzOioMU1_S6M_jBiT58catr_bNlBR1-H7to9L9Key7GKYVlD4b0bxwe8u_wtPxhXmbpM7rhZWAxYQhwNnkPI5OIoSQUlxf7h9cCuBTwQ7Imx4xuzYbwYIbNzdmwpoCHJ-Gpe-FEXD0XcDhHOuslU?encodeFailures=1&width=639&height=559">
 
