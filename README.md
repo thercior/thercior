@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/thercio-rodrigues/">
   <img align="center" alt="Thercio-Stats" height="180 width="250" src="https://github-readme-stats.vercel.app/api?username=thercior&show_icons=true&theme=radical">
   <img align="center" alt="Thercio-Stats" height="180 width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercior&show_icons=true&theme=radical">
+  <img align="right" alt="Thercio-EMOJI" height="180" width="190" src="https://dsm01pap005files.storage.live.com/y4mq5VcxhVunsolsz3ar99ZvZFomjISSHeI8xK0k7mIchNhmMi6U2fEqeOBCFq4W7WMLxXCAIUOk4IpafMMLmhEQXhxzOioMU1_S6M_jBiT58catr_bNlBR1-H7to9L9Key7GKYVlD4b0bxwe8u_wtPxhXmbpM7rhZWAxYQhwNnkPI5OIoSQUlxf7h9cCuBTwQ7Imx4xuzYbwYIbNzdmwpoCHJ-Gpe-FEXD0XcDhHOuslU?encodeFailures=1&width=639&height=559">
 
 </div>
 
@@ -16,12 +17,14 @@
  <img align="center" alt="Thercio-MATLAB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
  <img align="center" alt="Thercio-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
  <img align="center" alt="Thercio-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- </div>
+
+</div>
 
 ##
 
 <div style="display: inline_block"><br> 
   <a href="https://api.whatsapp.com/send?phone=5588992540904" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://t.me/ThercioR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://twitter.com/thercior" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://instagram.com/thercior" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/ThercioR#7464" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
