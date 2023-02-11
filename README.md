@@ -1,3 +1,6 @@
+<!--
+**thercior/thercior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Oi!! Seja bem vindo ao meu repositório! 
 ### <b>Sou Thércio Rodrigues, Engenheiro Químico com paixão por tecnologias e aprendendo mais sobre programação</b> 👋
 
