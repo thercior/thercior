@@ -1,6 +1,6 @@
 
 ## Oi!! Seja bem vindo ao meu repositório! 
-### <b>Sou Thércio Rodrigues, Engenheiro Químico com paixão por tecnologias e aprendendo mais sobre programação</b> 👋
+### <b>Sou Thércio Rodrigues, Engenheiro Químico com paixão por tecnologias e aprendendo mais sobre programação</b> 👋 
 
 <div style="display: inline_block"<br>
   <a href="https://www.linkedin.com/in/thercio-rodrigues/">
