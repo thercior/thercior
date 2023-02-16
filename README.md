@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/thercior">
-  <img align="left" alt="Thercio-EMOJI" height="180" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4mq5VcxhVunsolsz3ar99ZvZFomjISSHeI8xK0k7mIchNhmMi6U2fEqeOBCFq4W7WMLxXCAIUOk4IpafMMLmhEQXhxzOioMU1_S6M_jBiT58catr_bNlBR1-H7to9L9Key7GKYVlD4b0bxwe8u_wtPxhXmbpM7rhZWAxYQhwNnkPI5OIoSQUlxf7h9cCuBTwQ7Imx4xuzYbwYIbNzdmwpoCHJ-Gpe-FEXD0XcDhHOuslU?encodeFailures=1&width=639&height=559">
+  <img align="left" alt="Thercio-EMOJI" height="180" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4mjRJhdVothSGRC59VGvXxAiHSy3mbca4hc66-xAqOvBi1hsYcUmdxrEBA_rRjGvVlN0uxWChPuWvu5fG9rQcqs224wT4bp8zAgfPVMmq7OLlUUvYzCzG5sz_iASBMDTumN9umaE_aaQ9qTP_U--S5lhvCfSHQYCs3Pp30NVqdFAVkoaqPZEhm-pV8OCbJmFTVVGJ_NXkNBkX6bpVpf_UUo8No1RWMoWdwWYBu9NSsD-Q?encodeFailures=1&width=534&height=467">
   </a>
  <img align="center" alt="Thercio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Thercio-VBA" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png"> 
