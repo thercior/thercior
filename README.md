@@ -2,6 +2,9 @@
 <h2> Oi!! Seja bem vindo ao meu repositório! </h2>
 <h3> <b>Sou Thércio Rodrigues, Engenheiro Químico com paixão por tecnologias e aprendendo mais sobre programação</b> 👋 </h3>
 
+<h4> Atualmente estou estudando e praticando Linguagem Python aplicado a Desenvolvimento Web e Análise de Dados, Django Framework e FastAPI </h4>
+
+
 <!-- GitHub Stats -->
 <div style="display: inline_block"<br>
   <a href="https://www.linkedin.com/in/thercio-rodrigues/">
