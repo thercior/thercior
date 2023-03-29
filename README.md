@@ -7,7 +7,7 @@
 
 <!-- GitHub Stats -->
 <div style="display: inline_block"<br>
-  <a href="https://www.linkedin.com/in/thercio-rodrigues/">
+  <a href="">
   <img align="center" alt="Thercio-Stats" height="180 width="180" src="https://github-readme-stats.vercel.app/api?username=thercior&show_icons=true&theme=radical">
   <img align="center" alt="Thercio-Stats" height="180 width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercior&show_icons=true&theme=radical">
 </div>
@@ -16,7 +16,7 @@
 <!-- Emoji e Language Tools -->
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/thercior">
-  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4mCa--xy-Q1Ux_sBx_Acmc7Mg7hQCKwurFWbPdpdXwUPYjjhG8E9JRIWsJcfiHpQqaRTMh5BNtNNidxlVyCdJfQE5uvaMO_fvNu2y_7-sAwOHiAwtz3ED565WNyyD9IONhCLVFIRo7-EiJ0ucsv82vemF4YKDpL44nRgLoLunNv5SltWt3_mW0EgDA0Od6PSd89PrrlCBy18duHah8rCyklgvHy01xBB60nL-r1x3UdcQ?encodeFailures=1&width=534&height=467">
+  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSKrZU6HZCCtWKKi87v1zMTN2ZEfwUVuhr2p96DdWEBWnomhTe9w3qBAbGBQ_xp7u0Gz8ykMmlHlYhuvmkG8JhdNeyUHQ=w1366-h615">
   </a>
  <img align="center" alt="Thercio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Thercio-VBA" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png"> 
