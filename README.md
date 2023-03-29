@@ -2,12 +2,12 @@
 <h2> Oi!! Seja bem vindo ao meu repositório! </h2>
 <h3> <b>Sou Thércio Rodrigues, Engenheiro Químico com paixão por tecnologias e aprendendo mais sobre programação</b> 👋 </h3>
 
-<h4> Atualmente estou estudando e praticando Linguagem Python aplicado a Desenvolvimento Web e Análise de Dados, Django Framework e FastAPI </h4>
+<h4> Atualmente estou estudando e praticando Linguagem Python aplicado: a Desenvolvimento Web utilizando Django Framework e Flask / Análise de Dados e Machine Learning </h4>
 
 
 <!-- GitHub Stats -->
 <div style="display: inline_block"<br>
-  <a href="">
+  <a href="https://github.com/thercior">
   <img align="center" alt="Thercio-Stats" height="180 width="180" src="https://github-readme-stats.vercel.app/api?username=thercior&show_icons=true&theme=radical">
   <img align="center" alt="Thercio-Stats" height="180 width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercior&show_icons=true&theme=radical">
 </div>
