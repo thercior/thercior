@@ -16,7 +16,7 @@
 <!-- Emoji e Language Tools -->
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/thercior">
-  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4m3ft2pwGs7MBfV3VIv5Dh4JOnrhY65aeD6umnXx1SlppWnIzzzy2p8agVoi4Z83oh-9GXWYNQ4sOOHwYST1LOn_P3fNAYwKJLZY8rVRjf1X1K7uisq4KdXF4IyrIV2PN1erFt4CQpn5PTQaArl8MwuOvzIKz9fmPtoAEWdrP0zz06RH0B0gEhaCA8NjrAo8ETZWQUhWYtQ4yNAZXwVnPc3A1AaUaYUdSP57HM6-b0osg?encodeFailures=1&width=534&height=467">
+  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4mj6qOntrkR64M_3hL_rKsnjUgajTH0K-wUOs5zi34f0XIUSyNKdrM6xLf7T72NtpRo_v3Q5pMOFceIZ8QHE-xjWcJ-eOMtmgXabZ4_RgHyBrzROQiXkjx0nEdaPnIr-lLId1IziHMAFrBj2_Rmp1-mobpenyMUzvItxv3Q6xgJs-N69jGV1uGfq_XlUE-ofNEG6atjba3tj3q_-ioxg8BVuZUXxdBW6rXzI7WjXoYbsE?encodeFailures=1&width=534&height=467">
   </a>
  <img align="center" alt="Thercio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Thercio-VBA" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png"> 
