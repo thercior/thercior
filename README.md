@@ -16,7 +16,7 @@
 <!-- Emoji e Language Tools -->
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/thercior">
-  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="https://dsm01pap005files.storage.live.com/y4mtUHLdFH-Qwk_8DlXnl6Rio-IjhI2ou1tkQK-73UUSXfD96-vp7eOfysD0S3q42dfT5HzOTYNWU9fHV5NKboopE524529XHR8EmuHe5HrVAhnM67yYfHTg-_dtWJ-AXKwryr1SO8uPzjEJLrhrvvg3jBGDb1H_iuuru44swf4GpU7EbsDF2jgD91HT7yvtj2_bHEXybFLRC_v3YMVojMrtc9F_cwAEkZ6UBAJ0s9ezXQ?encodeFailures=1&width=534&height=467">
+  <img align="left" alt="Thercio-EMOJI" height="190" width="190" style="border-radius:100px;" src="./emoji.png">
   </a>
  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="VBA" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png"> 
